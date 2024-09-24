@@ -1,6 +1,6 @@
 <?php
 
-$filename = 'grp6_malinaomaryfeb_ex3.txt';
+$filename = 'grp6_Rickypili_ex3.txt';
 
 
 if (file_exists($filename)) 
